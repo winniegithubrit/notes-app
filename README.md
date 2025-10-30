@@ -101,8 +101,6 @@ Step by step Setup
     ✓ Built build/app/outputs/flutter-apk/app-debug.apk in 45.3s
    `
    # USAGE OF THE APP
-   # irst Launch
-
     Empty screen shows "No notes yet. Tap + to create one"
     Console confirms storage is working
     
